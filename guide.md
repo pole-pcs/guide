@@ -25307,7 +25307,7 @@ sont classées en personnels des services directs aux particuliers.
 
 ##### Définition :
 
-Ouvriers peu qualifiés (ou apprentis) du gros œuvre (bâtiment) exécutant
+Ouvriers peu qualifiés (ou apprentis) du gros œuvre du bâtiment exécutant
 sous la direction du chef d’équipe des travaux simples. Ils peuvent
 conduire de petits engins de chantier (bétonnière, compresseur, treuil
 simple, etc.).
@@ -25338,48 +25338,19 @@ simple, etc.).
 
 -   Apprenti maçon / Apprentie maçon<!--#  (4) -->
 
--   Artisan charpentier<!--#  (1) -->
-
--   Artisan maçon<!--#  (1) -->
-
--   Assembleur de charpentes / Assembleuse de charpentes<!--#  (1) -->
-
--   Charpentier / Charpentière<!--#  (1) -->
-
--   Charpentier couvreur / Charpentière couvreuse<!--#  (2) -->
-
 -   Couvreur / Couvreuse<!--#  (3) -->
-
--   Étancheur / Étancheuse<!--#  (2) -->
 
 -   Maçon<!--#  (15) -->
 
--   Monteur de charpente métallique / Monteuse de charpente
-    métallique<!--#  (1) -->
-
 -   Ouvrier maçon / Ouvrière maçon<!--#  (3) -->
-
--   Plombier couvreur / Plombière couvreuse<!--#  (1) -->
-
--   NA<!--#  (3) -->
 
 ##### Libellés typiques :
 
--   Aide maçon
-
 -   Apprenti charpentier
-
--   Apprenti couvreur
-
--   Apprenti maçon
 
 -   Cheministe
 
 -   Fumiste
-
--   Maçon
-
--   Ouvrier maçon
 
 #### 68A2 Ouvriers peu qualifiés du second œuvre du bâtiment
 
