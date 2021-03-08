@@ -22847,25 +22847,15 @@ de la réparation ou du remplacement des pare-brises.
 
 -   Carrossier peintre / Carrossière peintre<!--#  (4) -->
 
--   Peintre automobile<!--#  (1) -->
-
--   Réparateur de pare-brises / Réparatrice de pare-brises<!--#  (2) -->
-
 -   Tôlier automobile / Tôlière automobile<!--#  (3) -->
 
 ##### Libellés typiques :
-
--   Carrossier
-
--   Carrossier peintre
 
 -   Débosseleur
 
 -   Peintre automobile
 
 -   Réparateur de pare-brises
-
--   Tôlier automobile
 
 #### 63C2 Réparateurs qualifiés de véhicules et mécaniciens d’entretien
 
