@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 Version de travail du guide
 ================
 Théo Boulakia
@@ -1349,8 +1354,7 @@ imprimés, et tous les artisans fabriquant des objets non cités
 précédemment. 
 
 Ce sont exclusivement des indépendants. Les travailleurs à domicile pour le compte
-d’une entreprise ne sont pas considérés comme artisans, mais comme
-salariés.
+d’une entreprise sont considérés comme des salariés.
 
 <!--#
 
