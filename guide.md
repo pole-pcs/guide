@@ -5654,17 +5654,21 @@ catégorie 46.
 
 ##### Définition :
 
-La rubrique comprend : les personnels de catégorie A de la fonction
+Personnels de catégorie A de la fonction
 publique, ou équivalents, responsables de la mise en ordre, de la
 conservation et de la mise à disposition des utilisateurs de documents
 ou de biens artistiques ou culturels. Ils exercent leurs fonctions au
 sein de bibliothèques publiques, archives publiques, services
-archéologiques… les professionnels, salariés ou non, du secteur public
+archéologiques, etc.
+
+Ou encore professionnels, salariés ou non, du secteur public
 et privé, ayant une responsabilité scientifique ou d’encadrement dans le
 domaine du patrimoine culturel (musées, monuments historiques…), de
-l’action culturelle, scientifique ou technique. Exclusion : les
-bibliothécaires et cadres de la documentation du secteur privé sont
-codés en 37B4.
+l’action culturelle, scientifique ou technique. 
+
+Majoritairement -- mais non exclusivement -- des salariés de la fonction publique.
+
+À l'exclusion des bibliothécaires et cadres de la documentation du secteur privé, codés en 37B4.
 
 <!--#
 
@@ -5685,33 +5689,12 @@ codés en 37B4.
 
 ##### Libellés les plus fréquents :
 
--   Animateur du patrimoine / Animatrice du patrimoine<!--#  (1) -->
-
 -   Architecte des bâtiments de France<!--#  (2) -->
-
--   Architecte du patrimoine<!--#  (1) -->
-
--   Architecte urbaniste de l’État<!--#  (1) -->
 
 -   Bibliothécaire<!--#  (5) -->
 
--   Chargé de mission patrimoine culturel / Chargée de mission
-    patrimoine culturel<!--#  (1) -->
-
--   Chargé de projets culturels / Chargée de projets
-    culturels<!--#  (1) -->
-
 -   Conservateur de bibliothèques / Conservatrice de
     bibliothèques<!--#  (2) -->
-
--   Conservateur du patrimoine / Conservatrice du
-    patrimoine<!--#  (1) -->
-
--   Galériste<!--#  (1) -->
-
--   Médiateur culturel / Médiatrice culturelle<!--#  (1) -->
-
--   NA<!--#  (2) -->
 
 ##### Libellés typiques :
 
@@ -10403,7 +10386,7 @@ d’encadrement des élèves, sans activité d’enseignement proprement dit.
 
 Personnels exerçant un rôle de surveillance et d’encadrement des élèves
 dans l’enseignement public ou privé, sans activité d’enseignement
-proprement dit.
+proprement dite.
 
 <!--#
 
