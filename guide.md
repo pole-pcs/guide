@@ -1346,7 +1346,9 @@ peaux. Cette rubrique inclut également les artisans chargés d’effectuer
 des tâches liées à l’ameublement de locaux (tapisserie, décoration), les
 artisans spécialisés dans la reliure ou l’impression de supports
 imprimés, et tous les artisans fabriquant des objets non cités
-précédemment. Remarque : Les travailleurs à domicile pour le compte
+précédemment. 
+
+Ce sont exclusivement des indépendants. Les travailleurs à domicile pour le compte
 d’une entreprise ne sont pas considérés comme artisans, mais comme
 salariés.
 
@@ -1369,40 +1371,9 @@ salariés.
 
 -   Artisan tapissier<!--#  (4) -->
 
--   Brodeur / Brodeuse<!--#  (1) -->
-
--   Chef d’entreprise de production industrielle<!--#  (1) -->
-
--   Cordonnier / Cordonnière<!--#  (1) -->
-
--   Couturier / Couturière<!--#  (1) -->
-
--   Éditeur (littéraire, numérique, disques, jeux…) / Éditrice
-    (littéraire, numérique, disques, jeux…)<!--#  (3) -->
-
--   Imprimeur / Imprimeuse<!--#  (1) -->
-
--   Maroquinier / Maroquinière<!--#  (1) -->
-
--   Photograveur / Photograveuse<!--#  (1) -->
-
--   Réparateur de meubles / Réparatrice de meubles<!--#  (1) -->
-
--   Sellier maroquinier / Sellière maroquinière<!--#  (1) -->
-
--   Tapissier d’ameublement / Tapissière d’ameublement<!--#  (1) -->
-
--   NA<!--#  (1) -->
-
 ##### Libellés typiques :
 
--   Artisan tapissier
-
--   Artisan décorateur
-
 -   Cordonnier
-
--   Couturier
 
 -   Imprimeur
 
