@@ -5704,8 +5704,6 @@ Majoritairement -- mais non exclusivement -- des salariés de la fonction publiq
 
 -   Animateur du patrimoine
 
--   Architecte des bâtiments de France
-
 -   Architecte du patrimoine
 
 -   Architecte en chef des monuments historiques (ACMH)
@@ -5716,8 +5714,6 @@ Majoritairement -- mais non exclusivement -- des salariés de la fonction publiq
 
 -   Attaché de conservation du patrimoine
 
--   Bibliothécaire
-
 -   Chargé de mission patrimoine culturel
 
 -   Chargé de projets culturels
@@ -5727,8 +5723,6 @@ Majoritairement -- mais non exclusivement -- des salariés de la fonction publiq
 -   Commissaire d’exposition
 
 -   Conseiller culturel
-
--   Conservateur de bibliothèques
 
 -   Conservateur de musée
 
@@ -15270,20 +15264,6 @@ suivent la production, ou répartissent le travail entre les unités.
 
 ##### Libellés les plus fréquents :
 
--   Agent d’ordonnancement<!--#  (1) -->
-
--   Agent de méthodes<!--#  (1) -->
-
--   Agent de planification<!--#  (2) -->
-
--   Agent logistique<!--#  (1) -->
-
--   Assistant d’ordonnancement / Assistante
-    d’ordonnancement<!--#  (1) -->
-
--   Assistant de planification / Assistante de
-    planification<!--#  (1) -->
-
 -   Assistant logistique (technicien) / Assistante logistique
     (technicien)<!--#  (13) -->
 
@@ -15291,20 +15271,11 @@ suivent la production, ou répartissent le travail entre les unités.
 
 -   Responsable logistique<!--#  (4) -->
 
--   Technicien d’ordonnancement / Technicienne
-    d’ordonnancement<!--#  (1) -->
-
 -   Technicien de méthodes / Technicienne de méthodes<!--#  (6) -->
-
--   Technicien hygiéniste / Technicienne hygiéniste<!--#  (1) -->
 
 -   Technicien logistique / Technicienne logistique<!--#  (5) -->
 
--   NA<!--#  (5) -->
-
 ##### Libellés typiques :
-
--   Assistant logistique (technicien)
 
 -   Assistant de méthodes
 
@@ -15312,15 +15283,9 @@ suivent la production, ou répartissent le travail entre les unités.
 
 -   Assistant de planification
 
--   Logisticien
-
 -   Technicien d’ordonnancement
 
--   Technicien de méthodes
-
 -   Technicien hygiéniste
-
--   Technicien logistique
 
 -   Technicien de planification
 
