@@ -18245,9 +18245,6 @@ selon les obligations légales.
 
 ##### Libellés les plus fréquents :
 
--   Adjoint administratif (comptabilité) / Adjointe administrative
-    (comptabilité)<!--#  (2) -->
-
 -   Agent de comptabilité<!--#  (13) -->
 
 -   Aide comptable<!--#  (15) -->
@@ -18257,43 +18254,22 @@ selon les obligations légales.
 -   Assistant de gestion financière / Assistante de gestion
     financière<!--#  (4) -->
 
--   Assistant facturation / Assistante facturation<!--#  (2) -->
-
 -   Comptable<!--#  (57) -->
-
--   Comptable fiscaliste<!--#  (1) -->
 
 -   Employé administratif (comptabilité) / Employée administrative
     (comptabilité)<!--#  (4) -->
-
--   Employé de comptabilité / Employée de comptabilité<!--#  (1) -->
-
--   Employé de service financier / Employée de service
-    financier<!--#  (1) -->
-
--   Facturier / Facturière<!--#  (1) -->
-
--   Gestionnaire comptable<!--#  (2) -->
 
 -   Secrétaire comptable<!--#  (27) -->
 
 -   Secrétaire facturière<!--#  (4) -->
 
--   NA<!--#  (5) -->
-
 ##### Libellés typiques :
-
--   Aide comptable
-
--   Assistant de gestion financière
 
 -   Employé de comptabilité
 
 -   Employé de service financier
 
 -   Facturier
-
--   Secrétaire comptable
 
 ### 54B Employés de la banque, des assurances et des organismes de sécurité sociale
 
