@@ -10413,20 +10413,14 @@ proprement dite.
 
 ##### Libellés les plus fréquents :
 
--   Aide éducateur / Aide éducatrice<!--#  (2) -->
-
 -   Animateur de l’Éducation nationale / Animatrice de l’Éducation
     nationale<!--#  (5) -->
-
--   Animateur scolaire / Animatrice scolaire<!--#  (2) -->
 
 -   Assistant d’éducation (AED) / Assistante d’éducation
     (AED)<!--#  (20) -->
 
 -   Éducateur de vie scolaire (EVS) / Éducatrice de vie scolaire
     (EVS)<!--#  (7) -->
-
--   Maître d’internat / Maîtresse d’internat<!--#  (1) -->
 
 -   Surveillant d’externat / Surveillante d’externat<!--#  (4) -->
 
@@ -10436,8 +10430,6 @@ proprement dite.
     Surveillante en milieu scolaire (école, collège,
     lycée)<!--#  (5) -->
 
--   NA<!--#  (4) -->
-
 ##### Libellés typiques :
 
 -   Aide éducateur
@@ -10446,21 +10438,13 @@ proprement dite.
 
 -   Animateur scolaire
 
--   Animateur de l’Éducation nationale
-
--   Assistant d’éducation
-
 -   Cadre éducatif de l’enseignement privé
-
--   Éducateur de vie scolaire (EVS)
 
 -   Maître d’externat
 
 -   Maître d’internat
 
 -   Médiateur scolaire
-
--   Surveillant en milieu scolaire
 
 ### 42C Professions de la formation, de la documentation et du sport
 
