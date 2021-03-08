@@ -3617,7 +3617,11 @@ droit commercial, consommation et fraude).
 Ingénieurs, ou personnes possédant une formation technique supérieure,
 exerçant à titre libéral. Ils réalisent pour le compte d’entreprises des
 études techniques sur des problèmes généralement de haut niveau et
-spécialisés.
+spécialisés, aussi bien dans le domaine informatique que dans la conception paysagiste.
+
+Ce sont exclusivement des indépendants, ce qui les distingue en premier lieu des ingénieurs et cadres techniques d'entreprise,
+rassemblés dans la catégorie socio-professionnelle 38. Beaucoup de libellés sont identiques pour les deux catégories, dès lors
+que le codage en indépendant est autorisé.
 
 <!--#
 
@@ -3632,16 +3636,6 @@ spécialisés.
 
 ##### Libellés les plus fréquents :
 
--   Automaticien / Automaticienne<!--#  (1) -->
-
--   Cadre dirigeant / Cadre dirigeante<!--#  (1) -->
-
--   Chef d’entreprise commerciale<!--#  (1) -->
-
--   Chef d’entreprise de services<!--#  (2) -->
-
--   Coach agile informatique<!--#  (1) -->
-
 -   Concepteur paysagiste / Conceptrice paysagiste<!--#  (2) -->
 
 -   Consultant du BTP / Consultante du BTP<!--#  (2) -->
@@ -3649,54 +3643,12 @@ spécialisés.
 -   Consultant en réseaux informatiques / Consultante en réseaux
     informatiques<!--#  (2) -->
 
--   Consultant en système d’information / Consultante en système
-    d’information<!--#  (1) -->
-
--   Consultant environnement / Consultante environnement<!--#  (1) -->
-
 -   Consultant informatique / Consultante informatique<!--#  (2) -->
-
--   Consultant recherche et développement (R&D) de l’industrie /
-    Consultante recherche et développement (R&D) de
-    l’industrie<!--#  (1) -->
 
 -   Développeur en informatique / Développeuse en
     informatique<!--#  (3) -->
 
--   Développeur web / Développeuse web<!--#  (1) -->
-
--   Économiste de la construction<!--#  (1) -->
-
--   Hydrogéologue<!--#  (1) -->
-
--   Informaticien conseil / Informaticienne conseil<!--#  (2) -->
-
--   Ingénieur cadre dirigeant / Ingénieure cadre
-    dirigeante<!--#  (1) -->
-
--   Ingénieur d’études du bâtiment / Ingénieure d’études du
-    bâtiment<!--#  (1) -->
-
--   Ingénieur d’exploitation informatique / Ingénieure d’exploitation
-    informatique<!--#  (1) -->
-
--   Ingénieur développement informatique / Ingénieure développement
-    informatique<!--#  (1) -->
-
--   Ingénieur du bâtiment / Ingénieure du bâtiment<!--#  (1) -->
-
--   Ingénieur informatique / Ingénieure informatique<!--#  (1) -->
-
--   Ingénieur matériaux / Ingénieure matériaux<!--#  (1) -->
-
--   Ingénieur système et réseaux informatiques / Ingénieure système et
-    réseaux informatiques<!--#  (1) -->
-
--   Ingénieur-conseil / Ingénieure-conseil<!--#  (1) -->
-
 -   Maître d’œuvre / Maîtresse d’œuvre<!--#  (2) -->
-
--   NA<!--#  (10) -->
 
 ##### Libellés typiques :
 
@@ -3709,10 +3661,6 @@ spécialisés.
 -   Expert système d’information (SI)
 
 -   Ingénieur-conseil en bâtiment
-
--   Remarque : cette rubrique s’alimente avec les libellés de la CS 38.
-    La rubrique comprend tous les libellés de la CS 38 quand le codage
-    en indépendant est autorisé.
 
 #### 31B6 Architectes libéraux
 
