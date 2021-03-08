@@ -20389,8 +20389,9 @@ adultes.
 ##### Définition :
 
 Salariés peu qualifiés exécutant chez un particulier divers travaux
-domestiques notamment le nettoyage des locaux. La rubrique inclut les
-salariés de particuliers mais également les salariés d’entreprises ou
+domestiques, notamment le nettoyage des locaux. 
+
+La rubrique inclut les salariés de particuliers mais également les salariés d’entreprises ou
 d’associations travaillant chez des particuliers.
 
 <!--#
@@ -20413,12 +20414,7 @@ d’associations travaillant chez des particuliers.
 
 -   Agent d’entretien chez des particuliers<!--#  (7) -->
 
--   Cuisinier de particuliers / Cuisinière de particuliers<!--#  (2) -->
-
 -   Employé de maison / Employée de maison<!--#  (15) -->
-
--   Gouvernant chez des particuliers / Gouvernante chez des
-    particuliers<!--#  (1) -->
 
 -   Homme de ménage chez des particuliers / Femme de ménage chez des
     particuliers<!--#  (69) -->
@@ -20426,29 +20422,19 @@ d’associations travaillant chez des particuliers.
 -   Valet de chambre chez des particuliers / Femme de chambre chez des
     particuliers<!--#  (4) -->
 
--   NA<!--#  (1) -->
-
 ##### Libellés typiques :
-
--   Agent d’entretien chez des particuliers
 
 -   Cuisinier de particuliers
 
 -   Domestique
 
--   Employé de maison
-
 -   Factotum
-
--   Femme de ménage chez des particuliers
 
 -   Gouvernant chez des particuliers
 
 -   Linger à domicile
 
 -   Majordome
-
--   Valet de chambre chez des particuliers
 
 #### 56E2 Concierges et gardiens d’immeuble d’habitation
 
