@@ -2043,6 +2043,8 @@ permettre au commerçant de pouvoir conseiller sa clientèle. Les
 professionnels préparant et vendant des fleurs, en vrac, en bouquets ou
 en compositions florales sont aussi regroupés dans cette catégorie.
 
+Ce sont exclusivement des indépendants.
+
 <!--#
 
 ##### Distribution selon le statut 
@@ -2059,80 +2061,17 @@ en compositions florales sont aussi regroupés dans cette catégorie.
 
 ##### Libellés les plus fréquents :
 
--   Antiquaire<!--#  (2) -->
-
--   Cadre dirigeant / Cadre dirigeante<!--#  (1) -->
-
--   Chef d’entreprise commerciale<!--#  (3) -->
-
--   Commerçant d’antiquités / Commerçante d’antiquités<!--#  (1) -->
-
--   Commerçant d’articles de chasse et de pêche / Commerçante d’articles
-    de chasse et de pêche<!--#  (1) -->
-
--   Commerçant d’articles de sport / Commerçante d’articles de
-    sport<!--#  (1) -->
-
--   Commerçant d’articles pour bébés / Commerçante d’articles pour
-    bébés<!--#  (1) -->
-
--   Commerçant d’objets d’art / Commerçante d’objets d’art<!--#  (1) -->
-
--   Commerçant d’objets de collection (timbre, monnaie, etc) /
-    Commerçante d’objets de collection (timbre, monnaie,
-    etc)<!--#  (1) -->
-
--   Commerçant de biens pour la personne / Commerçante de biens pour la
-    personne<!--#  (1) -->
-
 -   Commerçant de chaussures / Commerçante de chaussures<!--#  (5) -->
-
--   Commerçant de fournitures de bureaux / Commerçante de fournitures de
-    bureaux<!--#  (1) -->
 
 -   Commerçant de vêtements / Commerçante de vêtements<!--#  (7) -->
 
 -   Commerçant en bijouterie, joaillerie, horlogerie / Commerçante en
     bijouterie, joaillerie, horlogerie<!--#  (3) -->
 
--   Commerçant en habillement, lingerie, textile / Commerçante en
-    habillement, lingerie, textile<!--#  (2) -->
-
--   Commerçant en maroquinerie / Commerçante en
-    maroquinerie<!--#  (1) -->
-
--   Commerçant en parfumerie / Commerçante en parfumerie<!--#  (1) -->
-
--   Commerçant en prêt à porter (PAP) / Commerçante en prêt à porter
-    (PAP)<!--#  (1) -->
-
--   Commerçant en téléphonie / Commerçante en téléphonie<!--#  (1) -->
-
--   Fleuriste<!--#  (2) -->
-
 -   Gérant de commerce d’articles de sport / Gérante de commerce
     d’articles de sport<!--#  (2) -->
 
--   Gérant de commerce de vêtements / Gérante de commerce de
-    vêtements<!--#  (2) -->
-
--   Gérant de commerce en habillement / Gérante de commerce en
-    habillement<!--#  (2) -->
-
--   Gérant de société commerciale / Gérante de société
-    commerciale<!--#  (1) -->
-
 -   Libraire<!--#  (2) -->
-
--   Vendeur d’antiquités / Vendeuse d’antiquités<!--#  (1) -->
-
--   Vendeur de cycles / Vendeuse de cycles<!--#  (1) -->
-
--   Vendeur en habillement / Vendeuse en habillement<!--#  (1) -->
-
--   Vendeur en prêt-à-porter / Vendeuse en prêt-à-porter<!--#  (1) -->
-
--   NA<!--#  (2) -->
 
 ##### Libellés typiques :
 
@@ -2155,8 +2094,6 @@ en compositions florales sont aussi regroupés dans cette catégorie.
 -   Galériste
 
 -   Fleuriste
-
--   Libraire
 
 -   Commerçant en parfumerie
 
